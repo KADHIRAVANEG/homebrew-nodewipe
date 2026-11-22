@@ -1,6 +1,6 @@
 # Homebrew Tap for nodewipe
 
-Official Homebrew tap for [nodewipe](https://github.com/KADHIRAVANEG/nodewipe) — Find and reclaim gigabytes of disk space from stray developer artifacts across 13+ ecosystems.
+Official Homebrew tap for [nodewipe](https://github.com/KADHIRAVANEG/nodewipe) — Find and reclaim gigabytes of disk space from stray developer artifacts across 39+ ecosystems.
 
 ## Installation
 
